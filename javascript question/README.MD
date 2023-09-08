@@ -132,14 +132,19 @@ Unit test cases
                                       Programming : - 
 
 
-flat the array , without using flat inbuilt function
+
+Flat the array , without using flat inbuilt function
  
 let a = [[0],0,[[0]],[0],0,[[0]]
 
 output - [0,0,0,0,0,0]
 
 
-write a add function for this functionality
+
+
+
+
+Write a add function for this functionality
 
 let x = add(1)
 
@@ -156,14 +161,24 @@ x.result() // 10
 
 
 
-write a  function for this functionality return add ,  any number of arguments pass as like ()
+
+
+Write a  function for this functionality return add ,  any number of arguments pass as like ()
 
 add(1)(2)(3)() or add(1)(2)(3)(5)(3)(8)()
 
 
-count the each element, how many time occur in array
+
+
+
+Count the each element, how many time occur in array
 
 let a = [1,2,3,4,5,6,3,2,1,1,2]
+
+
+
+
+
 
 
 Print element one by one after 5 second
@@ -182,6 +197,9 @@ let arr = [1,2,3,4,7,3,2,3,7,7,6,7]
 output:=  [7,7,7,7,3,3,3,2,2,1,4,6]
 
 
+
+
+
 Find the sum of sub array in a of a given number and return sub arrays
 
 let arr = [1,2,3,4,5,6,7,8,9]
@@ -189,6 +207,9 @@ let arr = [1,2,3,4,5,6,7,8,9]
 num = 7
 
 output = [[1,2,4] , [3,4],[2,5],[6,1]]
+
+
+
 
 
 
