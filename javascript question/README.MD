@@ -1,8 +1,10 @@
-javascript
+                                                               JavaScript
 
 
  What is hoisting in JS?
+
  How  JS work?
+
  What is the difference between let, var, and const ?
  What is an event loop?
  Difference between Local Storage, Session Storage, and Cookies
